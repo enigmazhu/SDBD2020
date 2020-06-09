@@ -6,6 +6,62 @@ Blockchains are distributed ledgers that enable parties who do not fully trust o
  
 The workshop aims to provide a venue at SIGKDD for developers, practitioners, and researchers from different background to discuss how the unique properties of blockchain and distributed ledger that benefit current and future applications, particular from the perspective of integrating data mining, analysis and intelligence into the underlying framework.   To best integrate with KDD community and scope, we have proposed the special theme of “Smart Data” to highlight the mission and focus of this workshop.  Due to COVID-19 situation, this year's workshop will be held online on August 24, 20120 in conjunction with the ACM SIGKDD 2020.
 
+## Call For Papers
+
+The Second International Workshop on Smart Data for Blockchain and Distributed Ledger (SDBD’20) aims to bring together practitioners and researchers with a specific focus on the emerging trends and industry needs associated with the AI, data mining, data governance, data privacy and other topics under the “Smart Data” framework. Both theoretical and experimental submissions are encouraged. Topics of interest include but are not limited to:
+
+
+
+- Data mining in distributed ledger setting
+- Privacy-preserving AI and data mining in blockchain and distributed setting
+- Secure data sharing through blockchain
+- Applications and use cases of blockchain
+- Algorithm design, complexity analysis, implementation for blockchain
+- Benchmarking and performance study
+- Blockchain consensus protocols
+- Blockchain protocol analysis and security
+- Data provenance
+- Distributed ledgers
+- Data analytics on blockchain
+- Data governance
+- Data stores for blockchain
+- Execution engine
+- Systems: Hyperledger. Corda, Ethereum, EOS, etc
+- Secure smart contracts
+- Throughput and scalability
+
+## Submission Guidelines
+
+We invite submissions for original research papers both theory and application-oriented as well as submissions from the research track and applied data science track of the main conference. We encourage the participants to submit papers on novel datasets and release them to advance the field. Papers must be submitted in PDF according to the [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template) in a single-blind format (including author names and affiliations). We welcome both long papers (maximum length of 9 pages) and short papers (maximum length of 5 pages). The accepted papers will be published on the workshop’s website, and will not be considered archival for resubmission purposes. Please submit your papers at the [EasyChair submission link](https://easychair.org/account/signin_timeout?l=0Gqswiuc95cQEulHDdOfPc#).
+
+
+
+## Key Dates
+
+All deadlines are 11:59 PM Pacific Standard Time
+
+- Workshop paper submissions:  June 21, 2020
+
+- Workshop paper notifications: June 30, 2020
+
+- Workshop date: August 24, 2020
+
+## Workshop Co-Chairs
+
+- Feida Zhu (Singapore Management University)
+- Jian Pei (Simon Fraser University)
+- Zijiang James Yang,  (Western Michigan University )
+- Xiaokui Xiao (National University of Singapore)
+
+
+## Industrial Partners
+
+To Be Announced. 
+
+
+
+Please email fdzhu@smu.edu.sg  for any questions.
+
 You can use the [editor on GitHub](https://github.com/enigmazhu/SDBD2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
