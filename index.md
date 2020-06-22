@@ -40,7 +40,7 @@ We invite submissions for original research papers both theory and application-o
 
 All deadlines are 11:59 PM Pacific Standard Time
 
-- Workshop paper submissions:  June 21, 2020
+- Workshop paper submissions:  June 25, 2020
 
 - Workshop paper notifications: June 30, 2020
 
