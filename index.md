@@ -70,7 +70,7 @@ Many popular Apps and platforms deploy certain crowdsourcing mechanisms to facil
 Qiang Tang is currently an assistant professor at New Jersey Institute of Technology, and also a director of JD-NJIT-ISCAS joint blockchain lab. Before joining NJIT, he was a postdoc at Cornell IC3. His research interests lie broaderly on applied cryptography and blockchain technology, and most of his work published at flagship venues of cryptography, computer security, and distributed computing venues. He won a few awards including MIT TR 35, China 2019 and a Google Faculty Award.
 
 
-## Invited Talk II:  Efficient Privacy-Preserving Federated Learning
+## Invited Talk II:  Efficient MPC-enabled Privacy-Preserving Federated Learning
 
 ### Dr. Zengxiang Li
 
@@ -80,10 +80,13 @@ Scientist, Institute of High Performance Computing, A*STAR, SINGAPORE
 
 ### Abstract
 
+Countries across the globe have been pushing strict regulations on the protection of personal or private data collected. The traditional centralized machine learning method, where data is shared and consolidated, may not be feasible for many data-driven industry applications in light of such regulations. Federated Learning (FL) enables multiple participants to train a machine learning model collectively without directly exchanging data. However, recent studies have shown that there is still a possibility to exploit the shared models to extract personal or confidential data. In this talk, we will introduce Multi- Party Computation (MPC) as-a-service framework and how to leverage it for privacy-preserving model aggregation for FL in an efficient and scalable manner.  The MPC-enabled FL framework has been integrated in an IoT platform for smart manufacturing. According to the experiments using real-world datasets, federated learning could achieve comparable accuracy as traditional centralized machine learning method, and MPC-as-a service framework could reduce the communication cost and FL training time significantly.  
+
 
 
 ### Speaker Bio
 
+Dr. Li Zengxiang is a former A*STAR Scientist at Institute of High Performance Computing (IHPC), Singapore. Dr. Li specializes in urban computing and transportation optimizations based on city-scale spatiotemporal data/graph analytics, machine learning and deep learning. Recently, his research group is focusing on secure data sharing and trusted collaborations for multiple industry domains, based on the convergence of cloud, data analytics, IoT, Blockchain, multi-party computation and federated learning technologies.
 
 
 ## Invited Talk III:  A Reliable Storage Partitioning for Permissioned Blockchain
