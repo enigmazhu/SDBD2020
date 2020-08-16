@@ -74,7 +74,7 @@ Qiang Tang is currently an assistant professor at New Jersey Institute of Techno
 
 ### Dr. Zengxiang Li
 
-Scientist, Institute of High Performance Computing, A*STAR, SINGAPORE
+Former Scientist, Institute of High Performance Computing, A*STAR, SINGAPORE
 
 <img src="zengxiang.png" width="150">
 
