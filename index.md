@@ -1,7 +1,56 @@
-## Workshop Program Overview
+# Workshop Program Overview
 
 
 <img src="programoverview.png">
+
+
+# Keynote Talks
+
+## Keynote I: Federated Learning Systems: A New Holy Grail for System Research in Data Privacy and Protection?
+
+### Prof. Bingsheng He
+
+Associate Professor,
+National University of Singapore 
+
+<img src="bingsheng.png">
+
+### Abstract
+
+Federated learning has been a hot research area in enabling the collaborative training of machine learning models among different organizations under the privacy restrictions. As researchers try to support more machine learning models with different privacy-preserving approaches, there is a requirement in developing systems and infrastructures to ease the development of various federated learning algorithms. Just like deep learning systems such as Caffe, PyTorch, and Tensorflow that boost the development of deep learning algorithms, federated learning systems are equivalently important, and face challenges from various issues such as unpractical system assumptions, scalability and efficiency. Inspired by federated systems in other fields such as databases and cloud computing, we study the system design requirements for federated learning systems. We find that two important features for federated systems in other fields, i.e., heterogeneity and autonomy, are rarely considered in the existing federated learning systems. In this talk, we will take a systematic comparison among the existing federated learning systems and present our research progress and future system research opportunities and directions.
+
+More details about our research can be found at [http://www.comp.nus.edu.sg/~hebs/](http://www.comp.nus.edu.sg/~hebs/) and related survey [https://arxiv.org/abs/1907.09693](https://arxiv.org/abs/1907.09693). 
+
+
+### Speaker Bio
+
+Dr. Bingsheng He is currently an Associate Professor and Vice-Dean (Research) at School of Computing, National University of Singapore. Before that, he was a faculty member in Nanyang Technological University, Singapore (2010-2016), and held a research position in the System Research group of Microsoft Research Asia (2008-2010), where his major research was building high performance cloud computing systems for Microsoft. He got the Bachelor degree in Shanghai Jiao Tong University (1999-2003), and the Ph.D. degree in Hong Kong University of Science & Technology (2003-2008). His current research interests include cloud computing, database systems and high performance computing. His papers are published in prestigious international journals (such as ACM TODS and IEEE TKDE/TPDS/TC) and proceedings (such as ACM SIGMOD, VLDB/PVLDB, ACM/IEEE SuperComputing, ACM HPDC, and ACM SoCC). He has been awarded with the IBM Ph.D. fellowship (2007-2008) and with NVIDIA Academic Partnership (2010-2011). Since 2010, he has (co-)chaired a number of international conferences and workshops, including IEEE CloudCom 2014/2015, BigData Congress 2018 and ICDCS 2020. He has served in editor board of international journals, including IEEE Transactions on Cloud Computing (IEEE TCC), IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), IEEE Transactions on Knowledge and Data Engineering (TKDE), Springer Journal of Distributed and Parallel Databases (DAPD) and ACM Computing Surveys (CSUR). He has got editorial excellence awards for his service in IEEE TCC and IEEE TPDS in 2019. 
+
+
+## Keynote II: Federated Learning Systems: A New Holy Grail for System Research in Data Privacy and Protection?
+
+### Dr. Jiaping Wang (王嘉平)
+
+CEO, Moqun Computing (墨群计算)
+Former Lead Researcher, Microsoft Research 
+
+<img src="jiaping.png">
+
+### Abstract
+
+Blockchain systems introduced a new computing paradigm that no computing system achieved before, to establish a computing process avoids coupling with particular hardware deployment and thus prevents being controlled by the hardware owner or the creator of the system. This ensures equal roles for all participants in a distributed system. Cryptocurrency (e.g. Bitcoin) fully leverages the democratizing nature of the blockchain system to achieve the world-wide trust without endorsement from any authority. Such capability can be employed for broader applications in human society for finance, governance, collaboration and social interactions. 
+Scalability is the top technical challenge that blockchain systems are encountered, which must be solved before adopting in sectors with much higher complexity and larger scale beyond cryptocurrency. We proposed parallel architecture to linearly scale out the blockchains sytem to match with the production needs. It is particular challenge to parallelize the blockchain system without weakening the democratizing nature and security. The talk will introduce the architecture that we have done and published on NSDI 2019, and follow up works regarding the programmability and production on top of it.
+
+More details about our research can be found at [https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping](https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping)
+
+
+### Speaker Bio
+
+Dr. Jiaping Wang is currently the CEO and founder of Moqun computing Ltd focus on cutting edge technologies for distributed systems like blockchains and overlay networks.  Before that, he held a research position in the ATG of Microsoft Research and IG of Microsoft Research Asia, where his research interests cover high performance computing, distributed GPU farms for machine learning and computer graphics. His works are published in prestigious journals (ACM ToG, IEEE TVCG) and top conferences (ACM SIGGRAPH, USENIX/NSDI). He is inventor of tens of granted US patents based on his academia works. Dr. Jiaping Wang received Ph.D. degree in Institute of Computing Technology of the Chinese Academy of Sciences, advised by Dr. Harry Shum, former Executive Vice President of Microsoft. 
+
+
+
+
 
 
 ## Overview
