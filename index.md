@@ -54,7 +54,7 @@ Dr. Jiaping Wang is currently the CEO and founder of Moqun computing Ltd focus o
 
 ## Invited Talk I:  Decentralized Data Crowdsourcing: Fair, Private, and even Super Cheap
 
-### Dr. Qiang Tang
+### Prof. Qiang Tang
 
 Assistant professor, New Jersey Institute of Technology
 
@@ -88,7 +88,7 @@ Scientist, Institute of High Performance Computing, A*STAR, SINGAPORE
 
 ## Invited Talk III:  A Reliable Storage Partitioning for Permissioned Blockchain
 
-### Dr. Cheqinq Jin
+### Prof. Cheqinq Jin
 
 Professor, East China Normal University
 
@@ -103,9 +103,32 @@ Professor, East China Normal University
 Prof. Cheqing Jin is a professor and vice dean of the School of Data Science and Engineering, East China Normal University. He is a senior member of China Computer Federation Technical Committee on Databases. His research interests include blockchain, data stream management, location-based services, uncertain data management and so on.  He was the PI of several National Natural Science Foundations, and has co-authored 1 Monograph and more than 100 papers.
 
 
+# Workshop Co-Chairs
+
+- Feida Zhu (Singapore Management University)
+- Jian Pei (Simon Fraser University)
+- Zijiang James Yang,  (Western Michigan University )
+- Xiaokui Xiao (National University of Singapore)
 
 
-## Overview
+### Prof. Feida Zhu
+
+Associate Professor, Singapore Management University
+
+Founder, Symphony Protocol
+
+<img src="feida.png" width="150">
+
+### Bio
+
+Prof. Feida Zhu is currently a tenured associate professor at Singapore Management University. His research interests include large-scale data mining and machine learning, block chain, text mining, graph/network mining and social network analysis, with emphasis on their application to business, financial and consumer innovation. He was the founding director of both the Pinnacle Lab for Analytics with China Ping An Insurance Group and DBS-SMU Life Analytics Lab, focusing on social data mining and analysis for finance industry. Prof. ZHU has been the Founder and Chief Scientist of Symphony Protocol, which is a next-generation blockchain-based protocol to empower a data-driven economy by democratized and personalized Intelligence with privacy by design. Prof. ZHU has published extensively at peer-reviewed top international venues, including ICDE, VLDB,  SIGMOD, KDD, WWW, JMLR, TODS, TKDE, etc. His work on large-scale frequent pattern mining has won the Best Student Paper Awards at 2007 IEEE International Conference on Data Engineering (ICDE’07) and 2007 Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD’07).  He also received the Best Paper Award at the 21th International Conference on Database Systems for Advanced Applications (DASFAA'16) and the Best Demo Paper Award at The 17th International Conference on Web-Age Information Management (WAIM'16).  He won the Early Career Award of PAKDD’19 and is the General Co-Chair of ICDM’18 and KDD’21. Prof. ZHU obtained his Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign (UIUC) in 2009, supervised by Prof. Jiawei Han.
+
+
+# Industrial & Media Partners
+
+<img src="suanlizhiku.png">
+
+# Workshop Overview
 
 With the advent of Bitcoin, a cryptographically-enabled peer-to-peer digital payment system, blockchain together with a whole package of distributed ledger technologies, which serve as the underlying foundation of all the crypto-currencies, have been gaining attention from both academia and industry in the last decade. Furthermore, the recent years have witnessed tremendous momentum in the development of blockchain and distributed ledger technologies， largely due to the impressive rise in the market capital of these digital tokens.  More and more industries, from banking and insurance, to supply chain and e-commerce, are quickly realizing the great potential in blockchain technology in efficiency boost, process automation and secure data sharing across otherwise isolated data silos.  
 
@@ -113,7 +136,7 @@ Blockchains are distributed ledgers that enable parties who do not fully trust o
  
 The workshop aims to provide a venue at SIGKDD for developers, practitioners, and researchers from different background to discuss how the unique properties of blockchain and distributed ledger that benefit current and future applications, particular from the perspective of integrating data mining, analysis and intelligence into the underlying framework.   To best integrate with KDD community and scope, we have proposed the special theme of “Smart Data” to highlight the mission and focus of this workshop.  Due to COVID-19 situation, this year's workshop will be held online on August 24, 20120 in conjunction with the ACM SIGKDD 2020.
 
-## Call For Papers
+# Call For Papers
 
 The Second International Workshop on Smart Data for Blockchain and Distributed Ledger (SDBD’20) aims to bring together practitioners and researchers with a specific focus on the emerging trends and industry needs associated with the AI, data mining, data governance, data privacy and other topics under the “Smart Data” framework. Both theoretical and experimental submissions are encouraged. Topics of interest include but are not limited to:
 
@@ -137,7 +160,7 @@ The Second International Workshop on Smart Data for Blockchain and Distributed L
 - Secure smart contracts
 - Throughput and scalability
 
-## Submission Guidelines
+# Submission Guidelines
 
 We invite submissions for original research papers both theory and application-oriented as well as submissions from the research track and applied data science track of the main conference. We encourage the participants to submit papers on novel datasets and release them to advance the field. Papers must be submitted in PDF according to the [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template) in a single-blind format (including author names and affiliations). We welcome both long papers (maximum length of 9 pages) and short papers (maximum length of 5 pages). The accepted papers will be published on the workshop’s website, and will not be considered archival for resubmission purposes. Please submit your papers at the [EasyChair submission link](https://easychair.org/account/signin_timeout?l=0Gqswiuc95cQEulHDdOfPc#).
  
@@ -153,17 +176,7 @@ All deadlines are 11:59 PM Pacific Standard Time
 
 - Workshop date: August 24, 2020
 
-## Workshop Co-Chairs
 
-- Feida Zhu (Singapore Management University)
-- Jian Pei (Simon Fraser University)
-- Zijiang James Yang,  (Western Michigan University )
-- Xiaokui Xiao (National University of Singapore)
-
-
-## Industrial & Media Partners
-
-<img src="suanlizhiku.png">
 
 
 
