@@ -13,7 +13,7 @@
 Associate Professor,
 National University of Singapore 
 
-<img src="bingsheng.png">
+<img src="bingsheng.png", width="300">
 
 ### Abstract
 
