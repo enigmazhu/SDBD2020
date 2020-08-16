@@ -13,7 +13,7 @@
 Associate Professor,
 National University of Singapore 
 
-<img src="bingsheng.png" width="300">
+<img src="bingsheng.png" width="150">
 
 ### Abstract
 
@@ -35,7 +35,7 @@ CEO, Moqun Computing (墨群计算)
 
 Former Lead Researcher, Microsoft Research 
 
-<img src="jiaping.png">
+<img src="jiaping.png" width="150">
 
 ### Abstract
 
@@ -58,7 +58,7 @@ Dr. Jiaping Wang is currently the CEO and founder of Moqun computing Ltd focus o
 
 Assistant professor, New Jersey Institute of Technology
 
-<img src="qiangtang.png">
+<img src="qiangtang.png" width="150">
 
 ### Abstract
 
@@ -76,7 +76,7 @@ Qiang Tang is currently an assistant professor at New Jersey Institute of Techno
 
 Scientist, Institute of High Performance Computing, A*STAR, SINGAPORE
 
-<img src="zengxiang.png">
+<img src="zengxiang.png" width="150">
 
 ### Abstract
 
@@ -92,7 +92,7 @@ Scientist, Institute of High Performance Computing, A*STAR, SINGAPORE
 
 Professor, East China Normal University
 
-<img src="cheqing.png">
+<img src="cheqing.png" width="150">
 
 ### Abstract
 
