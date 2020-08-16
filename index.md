@@ -54,9 +54,10 @@ All deadlines are 11:59 PM Pacific Standard Time
 - Xiaokui Xiao (National University of Singapore)
 
 
-## Industrial Partners
+## Industrial & Media Partners
 
-To Be Announced. 
+<img src="suanlizhiku.png">
+
 
 
 Please email fdzhu@smu.edu.sg  for any questions.
