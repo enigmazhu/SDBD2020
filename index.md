@@ -96,7 +96,7 @@ Professor, East China Normal University
 
 ### Abstract
 
-
+The full-replication data storage mechanism, as commonly utilized in existing blockchains, is the barrier to the system’s scalability, since it retains a copy of entire blockchain at each node so that the overall storage consumption per block is O(n) with n participants. Yet another drawback is that this mechanism may limit the throughput in permissioned blockchain. Moreover, due to the existence of Byzantine nodes, existing partitioning methods, though widely adopted in distributed systems for decades, cannot suit for blockchain systems directly, so that it is critical to devise new storage mechanism for blockchain systems. We propose a novel storage engine, called BFT-Store, to enhance storage scalability by integrating erasure coding with Byzantine Fault Tolerance (BFT) consensus protocol. The first property of BFT-store is that the storage consumption per block can be reduced to O(1) for the first time, which enlarges overall storage capability when more nodes attend the blockchain. Second, we design an efficient online re-encoding protocol for storage scale-out and a hybrid replication scheme to enhance reading performance. Analysis in theory and extensive experimental results illustrate the scalability, availability and efficiency of BFT-Store via the implementation in an open-source permissioned blockchain Tendermint.
 
 ### Speaker Bio
 
