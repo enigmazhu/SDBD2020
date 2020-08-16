@@ -32,6 +32,7 @@ Dr. Bingsheng He is currently an Associate Professor and Vice-Dean (Research) at
 ### Dr. Jiaping Wang (王嘉平)
 
 CEO, Moqun Computing (墨群计算)
+
 Former Lead Researcher, Microsoft Research 
 
 <img src="jiaping.png">
@@ -49,6 +50,57 @@ More details about our research can be found at [https://www.usenix.org/conferen
 Dr. Jiaping Wang is currently the CEO and founder of Moqun computing Ltd focus on cutting edge technologies for distributed systems like blockchains and overlay networks.  Before that, he held a research position in the ATG of Microsoft Research and IG of Microsoft Research Asia, where his research interests cover high performance computing, distributed GPU farms for machine learning and computer graphics. His works are published in prestigious journals (ACM ToG, IEEE TVCG) and top conferences (ACM SIGGRAPH, USENIX/NSDI). He is inventor of tens of granted US patents based on his academia works. Dr. Jiaping Wang received Ph.D. degree in Institute of Computing Technology of the Chinese Academy of Sciences, advised by Dr. Harry Shum, former Executive Vice President of Microsoft. 
 
 
+# Invited Talks
+
+## Invited Talk I:  Decentralized Data Crowdsourcing: Fair, Private, and even Super Cheap
+
+### Dr. Qiang Tang
+
+Assistant professor, New Jersey Institute of Technology
+
+<img src="qiangtang.png">
+
+### Abstract
+
+Many popular Apps and platforms deploy certain crowdsourcing mechanisms to facilitate the sharing economy. Over the years, concerns like fairness, data privacy have become more significant. In this talk, I will briefly survey our recent work on decentralized crowdsourcing facilitated by blockchain, and interesting findings we learnt along the way.
+
+
+### Speaker Bio
+
+Qiang Tang is currently an assistant professor at New Jersey Institute of Technology, and also a director of JD-NJIT-ISCAS joint blockchain lab. Before joining NJIT, he was a postdoc at Cornell IC3. His research interests lie broaderly on applied cryptography and blockchain technology, and most of his work published at flagship venues of cryptography, computer security, and distributed computing venues. He won a few awards including MIT TR 35, China 2019 and a Google Faculty Award.
+
+
+## Invited Talk II:  Efficient Privacy-Preserving Federated Learning
+
+### Dr. Zengxiang Li
+
+Scientist, Institute of High Performance Computing, A*STAR, SINGAPORE
+
+<img src="zengxiang.png">
+
+### Abstract
+
+
+
+### Speaker Bio
+
+
+
+## Invited Talk III:  A Reliable Storage Partitioning for Permissioned Blockchain
+
+### Dr. Cheqinq Jin
+
+Professor, East China Normal University
+
+<img src="cheqing.png">
+
+### Abstract
+
+
+
+### Speaker Bio
+
+Prof. Cheqing Jin is a professor and vice dean of the School of Data Science and Engineering, East China Normal University. He is a senior member of China Computer Federation Technical Committee on Databases. His research interests include blockchain, data stream management, location-based services, uncertain data management and so on.  He was the PI of several National Natural Science Foundations, and has co-authored 1 Monograph and more than 100 papers.
 
 
 
