@@ -8,6 +8,8 @@ Meeting ID: 213 975 3916
 
 Passcode: sdbd2020
 
+<img src="sdbdzoomlink.png">
+
 
 # Workshop Program Overview
 
