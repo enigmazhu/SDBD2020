@@ -1,3 +1,14 @@
+# Workshop Online Meeting Link
+
+
+## Join Zoom Meeting
+## https://smu-sg.zoom.us/j/2139753916?pwd=NXYySmY0OTkvd29MRGtSV1FqU200dz09
+
+Meeting ID: 213 975 3916
+
+Passcode: 4uc0ir
+
+
 # Workshop Program Overview
 
 
